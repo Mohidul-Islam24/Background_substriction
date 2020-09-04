@@ -1,0 +1,2 @@
+# Background_substriction
+Using your laptop/desktop webcam, create a video that contains the background for the first few seconds followed by your entry in the video. Question Consider the images in the "Images" folder for the dataset on Background Subtraction. Perform Background Subtraction on them by varying: A) eta (Voting parameter) from 0.7 to 0.9 in steps of 0.02. B) lambda (Chebyshev thresholding parameter) from 0.7 to 0.9 in steps of 0.02.
